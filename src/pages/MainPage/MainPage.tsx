@@ -1,8 +1,10 @@
 const MainPage = () => {
 	return (
-		<div>
+		<>
 			<h1>Main Page</h1>
-		</div>
+			<p>Sample text</p>
+			<a href='#'>Sample link</a>
+		</>
 	);
 };
 
